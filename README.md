@@ -10,7 +10,7 @@
 
 -	## Resources
 -	Data source:election_results.csv
--	Software: Python 3.6.1,Visual Studio code, 1.38.1
+-	Software: Python 3.7.6,  Visual Studio code 1.57.1
 
 ## Summary:
 The analysis of the election show that:
@@ -44,6 +44,8 @@ The analysis of the election show that:
 
 #### Diana DeGette who received 73.8% of votes and 272,892 number of votes.
 
-## Summary
+![election_results](https://user-images.githubusercontent.com/84524153/123190436-87cfd300-d46d-11eb-8c5a-3b247a56f6c9.png)
 
+## Summary
+This script can be used to find total count, number of each entity ,percentage of each entity AND will help determine winner or an entity with highest value.
 
