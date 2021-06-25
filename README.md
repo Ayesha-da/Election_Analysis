@@ -8,12 +8,12 @@
     4.Calculate the percentage of votes each candidate won
     5.Determine the winner of election based on popular vote
 
--	## Resources
--	Data source:election_results.csv
+## Resources
+-	Data source: election_results.csv
 -	Software: Python 3.7.6,  Visual Studio code 1.57.1
 
 ## Summary:
-The analysis of the election show that:
+The analysis of the election reveal that:
 - There were 369,711 votes cast in the election
 
 - The breakdown of County Votes:
@@ -26,24 +26,24 @@ The analysis of the election show that:
   
 - The candidates were:
 
-     -Charles Casper Stockham
+   1.Charles Casper Stockham
      
-     -Diana DeGette
+   2.Diana DeGette
      
-     -Raymon Anthony Doane
+   3.Raymon Anthony Doane
      
 - Candidate results:
 
-   -1 Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes
+   1 Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes
    
-   -2 Diana DeGette received 73.8% of votes and 272,892 total number of votes.
+   2 Diana DeGette received 73.8% of votes and 272,892 total number of votes.
    
-   -3 Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes.
+   3 Raymon Anthony Doane received 3.1% of votes and 11,606 number of votes.
    
 ### The winner of the election was 
 
 #### Diana DeGette who received 73.8% of votes and 272,892 number of votes.
-
+---------------------------------------------------------------------------------------------------------------------------
 ![election_results](https://user-images.githubusercontent.com/84524153/123190436-87cfd300-d46d-11eb-8c5a-3b247a56f6c9.png)
 
 ## Summary
