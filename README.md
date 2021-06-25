@@ -48,4 +48,6 @@ The analysis of the election show that:
 
 ## Summary
 This script can be used to find total count, number of each entity ,percentage of each entity AND will help determine winner or an entity with highest value.
-
+This script can be modified to 
+1. Add more demographics for each entity. 
+2. Add to tally results across various demographics. 
