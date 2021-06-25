@@ -1,5 +1,5 @@
 # Election_Analysis
-## Overview of Project
+## Overview of Election Audit
    A Colorado Board of Election employee has given a task to complete the election audit of a recent local congressional election.
 ### Purpose
     1.Calculate total number of votes cast.
@@ -8,11 +8,11 @@
     4.Calculate the percentage of votes each candidate won
     5.Determine the winner of election based on popular vote
 
-## Resources
+### Resources
 -	Data source: election_results.csv
 -	Software: Python 3.7.6,  Visual Studio code 1.57.1
 
-## Summary:
+## Election Audit Results
 The analysis of the election reveal that:
 - There were 369,711 votes cast in the election
 
@@ -48,7 +48,7 @@ The analysis of the election reveal that:
 
 ![election_results](https://user-images.githubusercontent.com/84524153/123190436-87cfd300-d46d-11eb-8c5a-3b247a56f6c9.png)
 
-## Summary
+## Election Audit Summary
 This script can be used to find total count, number of each entity ,percentage of each entity AND will help determine winner or an entity with highest value.
 This script can be modified to 
 1. Add more demographics for each entity. 
