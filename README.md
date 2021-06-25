@@ -44,10 +44,12 @@ The analysis of the election reveal that:
 
 #### Diana DeGette who received 73.8% of votes and 272,892 number of votes.
 ---------------------------------------------------------------------------------------------------------------------------
+##### election_results.txt file
+
 ![election_results](https://user-images.githubusercontent.com/84524153/123190436-87cfd300-d46d-11eb-8c5a-3b247a56f6c9.png)
 
 ## Summary
 This script can be used to find total count, number of each entity ,percentage of each entity AND will help determine winner or an entity with highest value.
 This script can be modified to 
 1. Add more demographics for each entity. 
-2. Add to tally results across various demographics. 
+2. Tally results across various demographics. 
